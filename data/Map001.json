@@ -220,6 +220,7 @@
                 "parameters": [0,
                 {
                     "list": [{
+<<<<<<< Updated upstream
                         "code": 18,
                         "indent": null
                     }, {
@@ -236,6 +237,12 @@
                         "indent": null
                     }, {
                         "code": 3,
+=======
+                        "code": 1,
+                        "indent": null
+                    }, {
+                        "code": 18,
+>>>>>>> Stashed changes
                         "indent": null
                     }, {
                         "code": 15,
@@ -252,6 +259,7 @@
                 "code": 505,
                 "indent": 0,
                 "parameters": [{
+<<<<<<< Updated upstream
                     "code": 18,
                     "indent": null
                 }]
@@ -267,12 +275,16 @@
                 "indent": 0,
                 "parameters": [{
                     "code": 3,
+=======
+                    "code": 1,
+>>>>>>> Stashed changes
                     "indent": null
                 }]
             }, {
                 "code": 505,
                 "indent": 0,
                 "parameters": [{
+<<<<<<< Updated upstream
                     "code": 3,
                     "indent": null
                 }]
@@ -288,6 +300,9 @@
                 "indent": 0,
                 "parameters": [{
                     "code": 3,
+=======
+                    "code": 18,
+>>>>>>> Stashed changes
                     "indent": null
                 }]
             }, {

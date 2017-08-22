@@ -106,6 +106,7 @@ DataManager.isDatabaseLoaded = function() {
 DataManager.loadMapData = function(mapId) {
     if (mapId > 0) {
         var filename = 'Map%1.json'.format(mapId.padZero(3));
+        debugger;
         this.loadDataFile('$dataMap', filename);
     } else {
         this.makeEmptyMap();

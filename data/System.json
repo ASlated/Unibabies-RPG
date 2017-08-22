@@ -83,7 +83,7 @@
         "pitch": 100,
         "volume": 90
     },
-    "editMapId": 1,
+    "editMapId": 3,
     "elements": ["", "Physical", "Fire", "Ice", "Thunder", "Water", "Earth", "Wind", "Light", "Darkness"],
     "equipTypes": ["", "Weapon", "Shield", "Head", "Body", "Accessory"],
     "gameTitle": "Unibabies",
